@@ -1,0 +1,69 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+<!--
+ /!* Style Definitions *!/
+ /!* Page Definitions *!/
+ @page
+	{mso-footnote-separator:url("header.htm") fs;
+	mso-footnote-continuation-separator:url("header.htm") fcs;
+	mso-endnote-separator:url("header.htm") es;
+	mso-endnote-continuation-separator:url("header.htm") ecs;}
+@page Section1
+	{size:21cm 29.5cm;
+	margin:2cm 2cm 2cm 3cm;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-even-footer:url("header.htm") ef1;
+	mso-footer:url("header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->.break { page-break-before: always; }
+</style>
+</head>
+<body><div class=Section1>
+
+	<title></title>
+
+
+<p class="MsoNormal ng-scope" style="text-align: center; margin: 0pt 0cm; line-height: 100%;"><font style="font-size: 13pt;"><span style="color: black;"><b style="">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</b> </span> </font></p>
+
+<p class="MsoNormal ng-scope" style="margin: 0pt 0cm; font-size: 14pt; text-align: center; line-height: 100%;"><span style="color: black;"><span style="font-weight: 700;">Độc lập - Tự do - Hạnh phúc</span></span></p>
+
+<p class="MsoNormal ng-scope" style="margin: 0pt 0cm; font-size: 14pt; text-align: center; line-height: 100%;"><span style="color: black;"><span style="font-weight: 700;">---------------------------</span></span></p>
+
+<p class="MsoNormal ng-scope" style="margin: 0pt 0cm; text-align: center; line-height: 100%;">&nbsp;</p>
+
+<div class="break ng-scope" style="text-align: center;"><span style="font-size: 18.6667px;"><b>LỜI CHỨNG CHỨNG THỰC BẢN SAO TỪ BẢN CHÍNH</b></span></div>
+
+<div class="ng-scope">
+<p class="MsoNormal" style="margin: 6pt 0cm; font-size: 14pt; font-weight: 400; text-align: start; text-indent: 1cm; line-height: 100%;">Chứng thực bản sao đúng với bản chính</p>
+
+<p class="MsoNormal" style="margin: 6pt 0cm; font-size: 14pt; font-weight: 400; text-align: start; text-indent: 1cm; line-height: 100%;">Số chứng thực&nbsp;<span class="simple" placeholder="">&nbsp;</span>&nbsp;quyển số&nbsp;<span class="simple" placeholder="">&nbsp;</span>&nbsp;</p>
+
+<p class="MsoNormal" style="margin: 6pt 0cm; font-size: 14pt; font-weight: 400; text-align: start; text-indent: 1cm; line-height: 100%;">Ngày&nbsp;<span class="simple" placeholder="">&nbsp;</span> tháng&nbsp;<span class="simple" placeholder="">&nbsp;</span> năm&nbsp;<span class="simple" placeholder="">&nbsp;</span>&nbsp;</p>
+</div>
+
+<p class="MsoNormal ng-scope" style="margin: 6pt 0cm; text-align: justify; text-indent: 1cm; line-height: 100%;"><span style="font-size: 18.6667px;">Người thực hiện ký chứng thực&nbsp;</span></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable ng-scope" style="background-color: rgb(255, 255, 255); font-size: 14pt;">
+	<tbody>
+		<tr>
+			<td style="padding: 0cm 5.4pt; width: 246.4pt;" valign="top" width="329">
+			<p align="center" class="MsoNormal" style="text-align: center;">&nbsp;</p>
+			</td>
+			<td style="padding: 0cm 5.4pt; width: 233.9pt;" valign="top" width="312">
+			<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-weight: 700;"><font style="font-size: 14pt;">CHÚNG THỰC VIÊN</font></span></p>
+
+			<p align="center" class="MsoNormal" style="text-align: center;">&nbsp;</p>
+
+			<p align="center" class="MsoNormal" style="text-align: center;">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+</div></body></html>
