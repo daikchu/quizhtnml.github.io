@@ -113,7 +113,7 @@ function formatDate(strDate) {
 }
 
 /*When click my-enter*/
-app.directive('myEnter', function () {
+/*app.directive('myEnter', function () {
     return function (scope, element, attrs) {
         element.bind("keydown keypress", function (event) {
             if(event.which === 13) {
@@ -125,7 +125,7 @@ app.directive('myEnter', function () {
             }
         });
     };
-});
+});*/
 
 function getWeekNumber(d) {
     // Copy date so don't modify original
