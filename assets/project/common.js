@@ -1,7 +1,7 @@
 /**
  * Created by Admin on 12/21/2017.
  */
-var app = angular.module('sansimso', ["ngSanitize","autocomplete"]);
+//var app = angular.module('sansimso', ["ngSanitize","autocomplete"]);
 
 //Bat ky tu
 var digitsOnly = /[1234567890]/g;
@@ -40,7 +40,7 @@ function stringToDateTime(_date) {
 }
 
 /*ap dung voi dinh dang 1,000,000 con neu muon 1.000.000 thi duoi'*/
-app.directive('format', ['$filter', function ($filter) {
+/*app.directive('format', ['$filter', function ($filter) {
     return {
         require: '?ngModel',
         link: function (scope, elem, attrs, ctrl) {
@@ -58,7 +58,7 @@ app.directive('format', ['$filter', function ($filter) {
             });
         }
     };
-}]);
+}]);*/
 
 /*KHU VỰC PHÂN TRANG JAVASCRIPT*/
 var page={items:"",rowCount:0,numberPerPage:20,pageNumber:1,pageList:[],pageCount:0};
